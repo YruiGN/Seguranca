@@ -233,7 +233,7 @@ being the elementary principles of that science, by T. Bell, M.D., with
 twenty-four plates, and printed in London in 1821. It treats of Beauty,
 of Love, of Sexual Intercourse, of the Laws regulating that Intercourse,
 of Monogamy and Polygamy, of Prostitution, of Infidelity, ending with a
-_catalogue raisonnée_ of the defects of female beauty.
+_catalogue raisonnge_ of the defects of female beauty.
 
 Other works in English also enter into great details of private and
 domestic life. 'The Elements of Social Science, or Physical, Sexual and
@@ -334,7 +334,7 @@ On the text of the 'Aphorisms on Love,' by Vatsyayana, only two
 commentaries have been found. One called 'Jayamangla' or 'Sutrabashya,'
 and the other 'Sutra vritti.' The date of the 'Jayamangla' is fixed
 between the tenth and thirteenth centuries A.D., because while treating
-of the sixty-four arts an example is taken from the 'Kávyaprakásha,'
+of the sixty-four arts an example is taken from the 'K×vyaprak×sha,'
 which was written about the tenth century A.D. Again, the copy of the
 commentary procured was evidently a transcript of a manuscript which
 once had a place in the library of a Chaulukyan king named Vishaladeva,
@@ -1724,7 +1724,7 @@ consciousness of pleasure in men and women are different. The difference
 in the ways of working, by which men are the actors, and women are the
 persons acted upon, is owing to the nature of the male and the female,
 otherwise the actor would be sometimes the person acted upon, and vice
-versâ. And from this difference in the ways of working follows the
+versô. And from this difference in the ways of working follows the
 difference in the consciousness of pleasure, for a man thinks, "this
 woman is united with me," and a woman thinks, "I am united with this
 man."
@@ -1825,7 +1825,7 @@ some being easily satisfied, and others eager and willing to go on for a
 long time. To satisfy these last thoroughly a man must have recourse to
 art. It is certain that a fluid flows from the woman in larger or
 smaller quantities, but her satisfaction is not complete until she has
-experienced the "spasme génêsique," as described in a French work
+experienced the "spasme ggnfsique," as described in a French work
 recently published and called "Breviare de l'Amour Experimental par le
 Dr. Jules Guyot."]
 
@@ -2625,9 +2625,9 @@ viz.:
    The cooing sound.
    The weeping sound.
    The sound Phut.
-   The sound Phât.
-   The sound Sût.
-   The sound Plât.
+   The sound Phôt.
+   The sound Sôt.
+   The sound Plôt.
 
 Besides these, there are also words having a meaning, such as "mother,"
 and those that are expressive of prohibition, sufficiency, desire of
@@ -2644,13 +2644,13 @@ the breasts should be struck with the back of the hand, slowly at first,
 and then proportionately to the increasing excitement, until the end.
 
 At this time the sounds Hin and others may be made, alternately or
-optionally, according to habit. When the man, making the sound Phât,
+optionally, according to habit. When the man, making the sound Phôt,
 strikes the woman on the head, with the fingers of his hand a little
 contracted, it is called Prasritaka, which means striking with the
 fingers of the hand a little contracted. In this case the appropriate
-sounds are the cooing sound, the sound Phât, and the sound Phut in the
+sounds are the cooing sound, the sound Phôt, and the sound Phut in the
 interior of the mouth, and at the end of congress the sighing and
-weeping sounds. The sound Phât is an imitation of the sound of a bamboo
+weeping sounds. The sound Phôt is an imitation of the sound of a bamboo
 being split, while the sound Phut is like the sound made by something
 falling into water. At all times when kissing and such like things are
 begun, the woman should give a reply with a hissing sound. During the
@@ -3880,7 +3880,7 @@ and the xanthochymus pictorius. Clusters of various flowers, such as the
 trapa bispinosa, the jasmine, the gasminum grandiflorum, the yellow
 amaranth, the wild jasmine, the tabernamontana coronaria, the
 nadyaworta, the china rose and others, should likewise be planted,
-together with the fragrant grass andropogon schænanthus, and the
+together with the fragrant grass andropogon schenanthus, and the
 fragrant root of the plant andropogon miricatus. She should also have
 seats and arbours made in the garden, in the middle of which a well,
 tank, or pool should be dug.
@@ -4992,19 +4992,19 @@ the Sanscrit of Kalidasa.]
 [Footnote 61: It is presumed that something like the following French
 verses are intended.
 
-   Quand on a juré le plus profond hommage
+   Quand on a jurg le plus profond hommage
    Voulez-vous qu'infide le on change de langage
    Vous seule captive mon esprit ou mon coeur
-   Que je puisse dans vos bras seuls goûter le bonheur;
-   Je voudrais, mais en vain, que mon coeur en délire
-   Couche où ce papier n'oserait vous dire.
+   Que je puisse dans vos bras seuls goôter le bonheur;
+   Je voudrais, mais en vain, que mon coeur en dglire
+   Couche oÇ ce papier n'oserait vous dire.
    Avec soin, de ces vers lisez leur premiers mots,
-   Vous verrez quel remède il faut à tous mes maux.
+   Vous verrez quel rem'de il faut + tous mes maux.
 
 Or these:
 
    Quand on vous voit, on vous aime;
-   Quand on vous aime, où vous voit-on.]
+   Quand on vous aime, oÇ vous voit-on.]
 
 [Footnote 62: It is supposed that storms, earthquakes, famines and
 pestilent diseases are here alluded to.]
@@ -6666,7 +6666,7 @@ black pigment or lamp black produced therefrom, when applied to the
 eye-lashes, has the effect of making a person look lovely.
 
 (c). The oil of the hog weed, the echites putescens, the sarina plant,
-the yellow amaranth, and the leaf of the nymphæ, if applied to the body,
+the yellow amaranth, and the leaf of the nymphe, if applied to the body,
 has the same effect.
 
 (d). A black pigment from the same plants produce a similar effect.
@@ -7372,11 +7372,11 @@ before".
 
 Page 127 (in this version), Footnote #61:
 
-   "jurè" changed to "juré".
+   "jur'" changed to "jurg".
 
    "profound" changed to "profond".
 
-   "Voulez vous qu'infidele" changed to "Voulez-vous qu'infidèle".
+   "Voulez vous qu'infidele" changed to "Voulez-vous qu'infid'le".
 
    "language" changed "langage".
 
@@ -7384,17 +7384,17 @@ Page 127 (in this version), Footnote #61:
 
    "et" changed to "ou".
 
-   "gouter" changed to "goûter".
+   "gouter" changed to "goôter".
 
-   "delire" changed to "délire".
+   "delire" changed to "dglire".
 
-   "ou" changed to "où".
+   "ou" changed to "oÇ".
 
-   "remede" changed to "remède".
+   "remede" changed to "rem'de".
 
-   "a" changed to "à".
+   "a" changed to "+".
 
-   "ou vous voit on" changed to "où vous voit-on".
+   "ou vous voit on" changed to "oÇ vous voit-on".
 
 Page 128: "moon-light" changed to "moonlight".
 

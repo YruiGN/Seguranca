@@ -17,7 +17,7 @@ int main()
         chaveArquivo[i] = '\0';
     }
 
-    FILE *arquivo = fopen("Vigenère.txt", "r+");
+    FILE *arquivo;
     FILE *arquivoResposta;
 
     printf("Digite 1 para criptografar e 2 para decriptografar:\n");
@@ -25,6 +25,12 @@ int main()
     fflush(stdin);
     printf("Digite a chave:\n");
     gets(chaveArquivo);
+
+    if(criptografar == 1){
+         arquivo = fopen("Vigenère.txt", "r+");
+    }else{
+        arquivo = fopen("Criptografado.dat", "rb+");
+    }
 
     for(i = 0; i < T; i++){
         if (chaveArquivo[i] != '\0'){
@@ -42,13 +48,17 @@ int main()
         }
     }
 
-
     fclose(arquivo);
-    arquivo = fopen("Vigenère.txt", "r+");
+
+    if(criptografar == 1){
+         arquivo = fopen("Vigenère.txt", "r+");
+    }else{
+        arquivo = fopen("Criptografado.dat", "rb+");
+    }
 
 
     if(criptografar == 1){
-        arquivoResposta = fopen("Criptografado.txt", "w+");
+        arquivoResposta = fopen("Criptografado.dat", "wb+");
     }else
     {
         arquivoResposta = fopen("Descriptografado.txt", "w+");
@@ -63,9 +73,11 @@ int main()
             if(controlChar <= numCaracteres){
                 fread(character,sizeof(character),1,arquivo);
                 if(criptografar == 1){
-                    fprintf(arquivoResposta, "%c", (character[0] + chaveArquivo[contador]) % 256);
+                    i = (character[0] + chaveArquivo[contador]) % 256;
+                    fwrite(&i, 1, 1, arquivoResposta);
                 }else{
-                    fprintf(arquivoResposta, "%c", (character[0] + 256 - chaveArquivo[contador]) % 256);
+                    i = (character[0] + 256 - chaveArquivo[contador]) % 256;
+                    fwrite(&i, 1, 1, arquivoResposta);
                 }
                 contador ++;
             }else{

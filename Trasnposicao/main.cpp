@@ -13,7 +13,7 @@ int main()
     double numCaracteres =0.0;
     char character[1];
 
-    FILE *arquivo = fopen("Transposição.txt", "r+");
+    FILE *arquivo;
     FILE *arquivoResposta;
 
     printf("Digite 1 para criptografar e 2 para decriptografar:\n");
@@ -21,6 +21,13 @@ int main()
 
     printf("Digite a chave:\n");
     scanf("%d",&chave);
+
+    if(criptografar == 1){
+         arquivo = fopen("Transposição.txt", "r+");
+    }else{
+        arquivo = fopen("Criptografado.dat", "rb+");
+    }
+
 
     if(arquivo != NULL){
         while(!feof(arquivo)){
@@ -37,7 +44,11 @@ int main()
     char matrizCrip[1][numLinhas][chave], matrizDescrip[1][chave][numLinhas];
     fclose(arquivo);
 
-    arquivo = fopen("Transposição.txt", "r+");
+    if(criptografar == 1){
+         arquivo = fopen("Transposição.txt", "r+");
+    }else{
+        arquivo = fopen("Criptografado.dat", "rb+");
+    }
 
     if(arquivo != NULL){
         while(!feof(arquivo)){
@@ -64,10 +75,10 @@ int main()
         fclose(arquivo);
 
         if(criptografar == 1){
-            arquivoResposta = fopen("Criptografado.txt", "w+");
+            arquivoResposta = fopen("Criptografado.dat", "wb+");
             for(coluna = 0; coluna < chave; coluna++){
                 for(linha = 0; linha < numLinhas; linha ++){
-                fprintf(arquivoResposta,"%c",matrizCrip[0][linha][coluna]);
+                    fwrite(&matrizCrip[0][linha][coluna], 1, 1, arquivoResposta);
                 }
             }
         }else
@@ -75,7 +86,7 @@ int main()
             arquivoResposta = fopen("Descriptografado.txt", "w+");
             for(coluna = 0; coluna < numLinhas; coluna++){
                 for(linha = 0; linha < chave; linha ++){
-                    fprintf(arquivoResposta,"%c",matrizDescrip[0][linha][coluna]);
+                    fwrite(&matrizDescrip[0][linha][coluna], 1, 1, arquivoResposta);
                 }
             }
         }
