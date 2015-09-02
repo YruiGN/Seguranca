@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1438904111 source:c:\users\yrui\documents\github\trasnposicao\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1439763451 source:c:\users\yrui\documents\github\seguranca\trasnposicao\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1441055865 source:c:\users\yrui\documents\github\seguranca\t1\trasnposicao\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
